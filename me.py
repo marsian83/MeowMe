@@ -6,3 +6,4 @@ print("ok")
 Removed some changes
 
 Added new changes
+now this change
