@@ -2,8 +2,8 @@ print("ok")
 
 
 # edited 
+delered a kube
 
-Removed some changes
-
+added a line
 Added new changes
 now this change
